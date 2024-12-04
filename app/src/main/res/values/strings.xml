@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ConectaMobile</string>
+    <string name="user_profile_image">Imagen de perfil del usuario</string>
+</resources>
